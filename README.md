@@ -32,6 +32,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 
 ### 📈 **Real-time Market Monitor**
 <img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 37 02 AM" src="https://github.com/user-attachments/assets/036cbbc8-9b58-4f20-930a-e08d11cb2941" />
+
 - Live watchlists with custom symbols and groupings
 - Quote detail panel with bid/ask, Greeks, and fundamental data
 - Event calendar showing scheduled economic releases, earnings, and FRED updates
@@ -63,6 +64,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 
 ### 🌍 **Macro & Alternative Data**
 <img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 40 30 AM" src="https://github.com/user-attachments/assets/3f3f6753-63f4-497b-a6ff-22d9b3b865ac" />
+
 - Full FRED economic database browser with 800k+ series
 - News map with geospatial visualization
 - Global AIS ship tracking for commodity shipping intelligence
@@ -70,6 +72,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 
 ### 🎓 **Learn By Doing**
 <img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 44 53 AM" src="https://github.com/user-attachments/assets/4703ff6f-9c09-4af4-8621-74ae44e39bd6" />
+
 - Kaggle-style interactive curriculum (Python → statistics → ML finance)
 - Every lesson runs real code against live market data
 - Inline grading with hints and progressive solutions
