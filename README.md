@@ -8,11 +8,15 @@ Quantitative research terminal and interactive learning platform.
 
 ## Screenshots
 
-<!-- Image Prompt: A clean, dark-mode terminal layout showing a complex financial chart, indicators, and a sidebar for code research -->
-![Chart Research Workspace](prompt:A clean dark-mode research terminal with multi-pane financial charts and sidebar sidebar)
+### Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 37 02 AM" src="https://github.com/user-attachments/assets/036cbbc8-9b58-4f20-930a-e08d11cb2941" />
 
-<!-- Image Prompt: An educational interface with a coding lesson, showing a code editor on the left and a Jupyter-style output on the right, with a lesson progress bar at the top -->
-![Interactive Lesson](prompt:An educational learning interface with code editor and Jupyter-style output notebook)
+### Macro Economics Tab
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 40 30 AM" src="https://github.com/user-attachments/assets/3f3f6753-63f4-497b-a6ff-22d9b3b865ac" />
+
+### Learning
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 44 53 AM" src="https://github.com/user-attachments/assets/4703ff6f-9c09-4af4-8621-74ae44e39bd6" />
+
 
 ## Installation
 
