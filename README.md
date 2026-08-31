@@ -39,24 +39,32 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Economic heatmap for macro condition overviews
 
 ### 📊 **Full Charting Suite**
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 11 02 45 AM" src="https://github.com/user-attachments/assets/97c942bf-a8ac-4cfb-bc70-4c7fe5cd75c1" />
+
 - Lightweight-charts engine for interactive candlesticks
 - Statistical overlays: autocorrelation (ACF), distribution histograms, comparative charts
 - One-click comparison between symbols, sectors, or indices
 - Export charts as PNG
 
 ### 🔧 **Options Analytics**
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 37 58 AM" src="https://github.com/user-attachments/assets/365fc1e2-44c6-429e-9fc8-c5336799ed77" />
+
 - Live option chains with moneyness sorting
 - Interactive implied volatility surface
 - Real-time Greeks calculation and payoff designer
 - Scenario testing for multi-leg strategies
 
 ### 💹 **Paper Trading & Risk**
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 11 05 03 AM" src="https://github.com/user-attachments/assets/72e545bd-20b7-48f9-8675-9805973f2493" />
+
 - Simulated order book with realistic liquidity fills
 - Position tracking with unrealized and realized P&L
 - Performance metrics: Sharpe, Sortino, drawdown, VaR
 - Proprietary-firm scoring dashboard for evaluation prep
 
 ### 🧪 **Strategy Research Environment**
+<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 11 04 15 AM" src="https://github.com/user-attachments/assets/f61833d3-a493-4e3d-b972-8d0b229695ea" />
+
 - Jupyter-style notebook with integrated Python kernel
 - AI assistant panel with token budget control
 - Hypothesis builder for structured idea development
@@ -83,20 +91,12 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 ## Quick Start
 
 ### macOS
-1. Download `Quantitative Lab-X.X.X-mac.zip` from the releases page.
-2. Unzip and drag **Quantitative Lab** to your `Applications` folder.
-3. Launch the app (first-time: right-click and **Open** to bypass Gatekeeper).
-4. For FRED economic data, add your (free) FRED API key to `~/.quantlab/.env`:
-   ```
-   FRED_API_KEY=your_key_here
-   ```
+
 
 ### Windows
-1. Download the `.msi` installer from releases.
-2. Run the installer.
-3. Launch from the Start Menu.
 
-> **Note:** Market data and charts work out of the box using free tiers of Yahoo Finance and FRED. Optional API keys for extended limits can be added to `~/.quantlab/.env`.
+
+> **Note:** Market data and charts work out of the box using free tiers of Yahoo Finance and FRED. Optional API keys for extended limits can be added to the settings in the application or `~/.quantlab/.env`.
 
 ---
 
