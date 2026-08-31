@@ -88,15 +88,44 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 
 ---
 
-## Quick Start
+# How to Get Quantitative Lab
 
-### macOS
+Quantitative Lab is **not free** and is available **only** via Gumroad.
 
+1. **Visit our Gumroad page:**  
+   👉 [https://gumroad.com/l/quantlab](https://gumroad.com/l/quantlab)
 
-### Windows
+2. **Purchase the license** (one-time payment, includes all future updates).
 
+3. **Download the macOS .dmg or .zip** from your Gumroad library after purchase.
 
-> **Note:** Market data and charts work out of the box using free tiers of Yahoo Finance and FRED. Optional API keys for extended limits can be added to the settings in the application or `~/.quantlab/.env`.
+4. **Install & launch:**
+   - macOS: Open the .dmg and drag **Quantitative Lab** to your Applications folder.
+   - First launch: Right-click the app and select **Open** to bypass Gatekeeper (unsigned build).
+
+5. **Activate FRED (optional but recommended):**  
+   Create `~/.quantlab/.env` and add your free FRED API key (sign up at https://fredaccount.stlouisfed.org/apikeys):
+   ```
+   FRED_API_KEY=your_key_here
+   ```
+
+> **Note:** Core functionality works out-of-the-box using free Yahoo Finance data. FRED key unlocks the full 800k‑series macro database.
+
+---
+
+## Building from Source (for developers)
+
+If you wish to inspect or modify the code, the source is available under a commercial license.  
+Contact us via the Gumroad page for source access.
+
+Requires Node.js 20+ and Python 3.11+.
+
+```bash
+git clone https://github.com/dokundi/quant-lab.git
+cd quant-lab/ui
+npm install
+npm run dist
+```
 
 ---
 
@@ -108,17 +137,22 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for details.
+Quantitative Lab is distributed under a **commercial license** purchased via Gumroad.  
+See the Gumroad product page for full terms.
 
 Attribution details are in [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md).
 
 ---
 
-## Support Development
+## Support & Updates
 
-If you find value in Quantitative Lab, consider sponsoring development via
-[Gumroad](https://gumroad.com) or sharing it with your network.
+All purchases include free lifetime updates.  
+New features and bug fixes are announced via Gumroad email, the product page and github.
 
-**Disclaimer:** This is research software, not investment advice. Historical
-performance is not indicative of future results. All data is free-tier sourced
-unless you provide your own API keys.
+**Disclaimer:** This is research software, not investment advice.  
+Historical performance is not indicative of future results. All data is free-tier sourced unless you provide your own API keys.
+
+---
+
+**Get Quantitative Lab now:**  
+👉 [https://gumroad.com/l/quantlab](https://gumroad.com/l/quantlab)
