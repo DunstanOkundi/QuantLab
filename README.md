@@ -31,7 +31,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 ## Key Features
 
 ### 📈 **Real-time Market Monitor**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 37 02 AM" src="https://github.com/user-attachments/assets/036cbbc8-9b58-4f20-930a-e08d11cb2941" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 at 6 01 51 PM" src="https://github.com/user-attachments/assets/fa9a6d83-2b67-4b6c-85dc-2ada48425be4" />
 
 - Live watchlists with custom symbols and groupings
 - Quote detail panel with bid/ask, Greeks, and fundamental data
@@ -39,7 +39,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Economic heatmap for macro condition overviews
 
 ### 📊 **Full Charting Suite**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 11 02 45 AM" src="https://github.com/user-attachments/assets/97c942bf-a8ac-4cfb-bc70-4c7fe5cd75c1" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 at 5 58 21 PM" src="https://github.com/user-attachments/assets/a42be5b4-67f6-40c9-b95b-f1a545bf8347" />
 
 - Lightweight-charts engine for interactive candlesticks
 - Statistical overlays: autocorrelation (ACF), distribution histograms, comparative charts
@@ -47,7 +47,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Export charts as PNG
 
 ### 🔧 **Options Analytics**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 37 58 AM" src="https://github.com/user-attachments/assets/365fc1e2-44c6-429e-9fc8-c5336799ed77" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 at 6 02 03 PM" src="https://github.com/user-attachments/assets/7ac45536-53f2-4f9e-8a98-b3eef0e6960d" />
 
 - Live option chains with moneyness sorting
 - Interactive implied volatility surface
@@ -55,8 +55,6 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Scenario testing for multi-leg strategies
 
 ### 💹 **Paper Trading & Risk**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 11 05 03 AM" src="https://github.com/user-attachments/assets/72e545bd-20b7-48f9-8675-9805973f2493" />
-
 - Simulated order book with realistic liquidity fills
 - Position tracking with unrealized and realized P&L
 - Performance metrics: Sharpe, Sortino, drawdown, VaR
@@ -71,7 +69,8 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Data quality reports identifying survivorship or stale-data issues
 
 ### 🌍 **Macro & Alternative Data**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 40 30 AM" src="https://github.com/user-attachments/assets/3f3f6753-63f4-497b-a6ff-22d9b3b865ac" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 at 5 59 32 PM" src="https://github.com/user-attachments/assets/003ba447-2adb-4501-a15f-19cfa91d97af" />
+
 
 - Full FRED economic database browser with 800k+ series
 - News map with geospatial visualization
@@ -79,7 +78,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 - Maritime chokepoint monitor (Suez, Panama, Hormuz, etc.)
 
 ### 🎓 **Learn By Doing**
-<img width="1920" height="1080" alt="Screenshot 2026-08-31 at 10 44 53 AM" src="https://github.com/user-attachments/assets/4703ff6f-9c09-4af4-8621-74ae44e39bd6" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 at 6 00 07 PM" src="https://github.com/user-attachments/assets/e755073e-9599-442e-afac-1edf9a4b1253" />
 
 - Kaggle-style interactive curriculum (Python → statistics → ML finance)
 - Every lesson runs real code against live market data
@@ -93,7 +92,7 @@ launches. The command palette (<kbd>⌘K</kbd>) opens any panel in a new tab.
 Quantitative Lab is **not free** and is available **only** via Gumroad.
 
 1. **Visit our Gumroad page:**  
-   👉 [https://gumroad.com/l/quantlab](https://gumroad.com/l/quantlab)
+   👉 [https://quantlab.gumroad.com/l/quantlab](https://quantlab.gumroad.com/l/quantlab)
 
 2. **Purchase the license** (one-time payment, includes all future updates).
 
@@ -102,12 +101,6 @@ Quantitative Lab is **not free** and is available **only** via Gumroad.
 4. **Install & launch:**
    - macOS: Open the .dmg and drag **Quantitative Lab** to your Applications folder.
    - First launch: Right-click the app and select **Open** to bypass Gatekeeper (unsigned build).
-
-5. **Activate FRED (optional but recommended):**  
-   Create `~/.quantlab/.env` and add your free FRED API key (sign up at https://fredaccount.stlouisfed.org/apikeys):
-   ```
-   FRED_API_KEY=your_key_here
-   ```
 
 > **Note:** Core functionality works out-of-the-box using free Yahoo Finance data. FRED key unlocks the full 800k‑series macro database.
 
@@ -155,4 +148,4 @@ Historical performance is not indicative of future results. All data is free-tie
 ---
 
 **Get Quantitative Lab now:**  
-👉 [https://gumroad.com/l/quantlab](https://gumroad.com/l/quantlab)
+👉 [https://quantlab.gumroad.com/l/quantlab](https://quantlab.gumroad.com/l/quantlab)
